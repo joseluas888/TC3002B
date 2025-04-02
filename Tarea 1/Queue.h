@@ -1,5 +1,4 @@
 #include <iostream>
-#include <stdexcept>  // Para manejar excepciones
 
 class Node {
 public:
